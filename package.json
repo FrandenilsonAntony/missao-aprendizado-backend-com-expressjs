@@ -1,0 +1,12 @@
+{
+  "name": "missao-aprendizado-backend-com-expressjs",
+  "version": "1.0.0",
+  "description": "Projeto Aprendizado Backend com Nodejs, Expressjs e Codespace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
